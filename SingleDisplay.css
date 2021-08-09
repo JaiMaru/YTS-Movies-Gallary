@@ -1,0 +1,254 @@
+body
+	{
+		background-image:url(Images/f.jpg);
+		background-repeat:no-repeat;
+		background-attachment:fixed;
+		background-size:100% 100%;
+		margin:0px;
+		opacity:;
+	}
+	
+	#div1
+	{
+		background-color:#000 ; height:9%;width:100%; float:left;
+	}
+	
+	#div2
+	{
+		height:30%;width:100%; float:left;color:#FFF;
+	}
+	
+	#div3
+	{
+		height:200%;width:100%; float:left; 
+	}
+	
+	#div11
+	{
+		width:8%;height:90%;  margin-left:5% ; float:left;
+	}
+	
+	#logoimg
+	{
+		width:100%;height:100%;
+	}
+	
+	#div13
+	{
+		color:#CCC; height:50%; margin-top:18px; margin-left:5%; float:left;font-family:Verdana, Geneva, sans-serif; font-size:20px;text-transform:uppercase ; float:left;
+	}
+	
+	#div14
+	{
+		color:#CCC ;height:50%; margin-right:5% ;font-family:Arial, Helvetica, sans-serif; text-transform:uppercase ; float:right;
+	}
+	
+	#headlist
+	{
+		list-style:none;
+		font-size:22px;		
+	}
+	
+	#headlist li
+	{
+		top:6px;
+		display:inline-block;
+		margin-left:10px;
+		margin-bottom:10px;
+	}
+	
+	a
+	{
+		text-decoration:none;
+		color:#CCC;
+	}
+	
+	p
+	{
+		margin-left:18%;
+		padding-top:20px;
+		padding-bottom:20px;
+		font:"Courier New", Courier, monospace;
+		font-size:22px;
+		color:#FFF;
+		width:65%;
+				
+	}
+	
+	span
+	{
+		padding-bottom:20px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:50px;
+		font-weight:550;
+		color:#FFF;
+	}
+	
+	h1
+	{
+		font-size:25px;
+		color:#FFF;
+		font-weight:700;
+	}
+	
+	#div31
+	{
+		border-top:groove 2px #999999;
+		padding-top:50px;
+		width:76%;
+		margin-left:12%;
+		margin-bottom:30px;		
+	}
+	
+	#descp
+	{
+		background-color:#333;
+		border:solid #CCC 4px;
+		box-sizing:border-box;		
+		width:100%;
+		height:90%;
+		float:left;
+	}
+	
+	.poster
+	{
+		margin-top:5%; 
+		margin-left:28%;	
+		width:45%;
+		height:57%;
+		background-color:#00C;
+		box-sizing:border-box;
+		position:relative;	
+	}
+	.poster img
+	{
+		border:solid 7px #FC0	;
+		border-radius:7px;
+		width:100%;
+		height:100%;
+		position:absolute;
+		top:50%;
+		left:50%;
+		transform:translate(-50%,-50%);
+	}
+	
+	.name
+	{
+		text-transform:capitalize;
+		margin-left:30%;
+		box-sizing:border-box;
+		text-align:center;
+		width:41%;
+		padding:5px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-weight:600;
+		font-size:40px;
+		color:#FC0;
+		float:left;
+	}
+	
+	#cast
+	{
+		margin-top:30px;
+		margin-left:10%;
+		margin-right:7%;
+		box-sizing:border-box;
+		border:#0C0 solid 2px;
+		border-radius:8px;
+		background-color:#0C0;
+		text-align:center;
+		width:20%;
+		height:80px;
+		padding-top:18px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-weight:700;
+		font-size:32px;
+		color:#FFF;
+		float:left;
+	}
+	
+	#crew
+	{
+		margin-top:30px;
+		margin-right:5%;
+		box-sizing:border-box;
+		border:#0C0 solid 2px;
+		border-radius:8px;
+		background-color:#0C0;
+		text-align:center;
+		width:20%;
+		height:80px;
+		padding-top:18px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-weight:700;
+		font-size:32px;
+		color:#FFF;
+		float:left;
+	}
+
+	.text
+	{
+		box-sizing:border-box;
+		text-align:center;
+		width:36%;
+		padding-bottom:13px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-weight:500;
+		font-size:18px;
+		color:#FFF;
+		float:left;
+	}
+	
+	#hits
+	{
+		box-sizing:border-box;
+		padding:5px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-weight:600;
+		font-size:24px;
+		color:#FFF;
+		width:100%;
+	}
+	
+	#plot
+	{
+		width:100%; float:left;color:#FFF;
+		border-top:3px #CCC groove;
+	}
+	
+	#ptitle
+	{
+		padding-top:10px;
+		padding-bottom:2px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:30px;
+		border-bottom: groove 0px #FFFFFF;
+		font-weight:550;
+		color:#FFF;
+		width:100%;
+		display:inline-block;
+		text-align:center;
+	}
+	
+	#base
+	{
+		line-spacing:3px;
+		text-align:justify;
+		margin-left:10%;
+		padding:20px;
+		padding-bottom:10px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:20px;
+		color:#CCC;
+		width:80%;
+	}
+		
+	#footer
+	{
+		background-color:#000 ; height:20%;width:100%; float:left;color:#CCC;
+	}
+	
+	h2
+	{
+		font-family:Arial, Helvetica, sans-serif;font-size:16px;alignment-adjust:central;
+	}
